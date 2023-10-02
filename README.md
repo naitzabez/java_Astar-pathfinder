@@ -1,3 +1,6 @@
 # java_Astar-pathfinder
 visualizing the A* algorithm
-run java -jar A_star.jar
+go to the right directory.
+run in terminal: java -jar A_STAR.jar 
+enjoy
+
